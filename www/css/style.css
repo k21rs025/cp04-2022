@@ -63,6 +63,8 @@
      #btnD {
         font-size: 20px;
         position:absolute; top:380px; left:85%; width:15%; height:60px; 
+        background-color: white;
+        color: palevioletred;
     }
     
     #minute {
