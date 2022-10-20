@@ -66,6 +66,13 @@
         background-color: white;
         color: palevioletred;
     }
+
+     #btnE {
+        font-size: 20px;
+        position:absolute; top:440px; left:50%; width:30%; height:60px; 
+        background-color: white;
+        color: palevioletred;
+    }
     
     #minute {
         font-size: 30px;
